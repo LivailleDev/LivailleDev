@@ -13,6 +13,7 @@ I like turning ideas into clean, working interfaces — and I'm just as happy wi
 
 | Project | What it shows | Stack | Live |
 |---|---|---|---|
+| **[Atlas](https://github.com/LivailleDev/country-explorer)** — country explorer | **React Router** SPA: dynamic routes, search, region filter, neighbour navigation, dark mode, tests + CI | React · TypeScript · React Router · Vite | **[Demo](https://livailledev.github.io/country-explorer/)** |
 | **[CineFinder](https://github.com/LivailleDev/movie-catalog)** — movie catalog | End-to-end **TypeScript**, real TMDB API, typed models, debounced search | React · TypeScript · Vite · TMDB | **[Demo](https://calm-cendol-e2c842.netlify.app)** |
 | **[The Marché](https://github.com/LivailleDev/TheMarche)** — shopping cart | Mobile app, shared cart via Context, Jest-tested logic, CI | React Native · Expo | **[Demo](https://themarcheapp.netlify.app)** |
 | **[React Tetris](https://github.com/LivailleDev/tetris)** — game | All game logic in one `useReducer`, Web Audio SFX, no game engine | React · Vanilla JS | **[Play](https://playful-paletas-67a55e.netlify.app)** |
